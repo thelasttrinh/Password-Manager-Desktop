@@ -1,1 +1,1 @@
-Desktop application for storing passwords
+Desktop application for storing passwords locally
